@@ -1,0 +1,12 @@
+/Users/yngvehestem/Projects/YngveHestem.BytesPreview.Maui/YngveHestem.BytesPreview.Maui.Core/bin/Release/net7.0/YngveHestem.BytesPreview.Maui.Core.deps.json
+/Users/yngvehestem/Projects/YngveHestem.BytesPreview.Maui/YngveHestem.BytesPreview.Maui.Core/bin/Release/net7.0/YngveHestem.BytesPreview.Maui.Core.dll
+/Users/yngvehestem/Projects/YngveHestem.BytesPreview.Maui/YngveHestem.BytesPreview.Maui.Core/bin/Release/net7.0/YngveHestem.BytesPreview.Maui.Core.pdb
+/Users/yngvehestem/Projects/YngveHestem.BytesPreview.Maui/YngveHestem.BytesPreview.Maui.Core/obj/Release/net7.0/YngveHestem.BytesPreview.Maui.Core.csproj.AssemblyReference.cache
+/Users/yngvehestem/Projects/YngveHestem.BytesPreview.Maui/YngveHestem.BytesPreview.Maui.Core/obj/Release/net7.0/YngveHestem.BytesPreview.Maui.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yngvehestem/Projects/YngveHestem.BytesPreview.Maui/YngveHestem.BytesPreview.Maui.Core/obj/Release/net7.0/YngveHestem.BytesPreview.Maui.Core.AssemblyInfoInputs.cache
+/Users/yngvehestem/Projects/YngveHestem.BytesPreview.Maui/YngveHestem.BytesPreview.Maui.Core/obj/Release/net7.0/YngveHestem.BytesPreview.Maui.Core.AssemblyInfo.cs
+/Users/yngvehestem/Projects/YngveHestem.BytesPreview.Maui/YngveHestem.BytesPreview.Maui.Core/obj/Release/net7.0/YngveHestem.BytesPreview.Maui.Core.csproj.CoreCompileInputs.cache
+/Users/yngvehestem/Projects/YngveHestem.BytesPreview.Maui/YngveHestem.BytesPreview.Maui.Core/obj/Release/net7.0/YngveHestem.BytesPreview.Maui.Core.dll
+/Users/yngvehestem/Projects/YngveHestem.BytesPreview.Maui/YngveHestem.BytesPreview.Maui.Core/obj/Release/net7.0/refint/YngveHestem.BytesPreview.Maui.Core.dll
+/Users/yngvehestem/Projects/YngveHestem.BytesPreview.Maui/YngveHestem.BytesPreview.Maui.Core/obj/Release/net7.0/YngveHestem.BytesPreview.Maui.Core.pdb
+/Users/yngvehestem/Projects/YngveHestem.BytesPreview.Maui/YngveHestem.BytesPreview.Maui.Core/obj/Release/net7.0/ref/YngveHestem.BytesPreview.Maui.Core.dll
